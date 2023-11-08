@@ -1,0 +1,9 @@
+---
+rid: "ri.vector.main.workbook.348da54b-4bd8-44ff-90da-7a644659f386"
+repositoryRid: "ri.stemma.main.repository.d31eb549-6bd7-4ba9-a936-c1e38c3db96b"
+outputFolderRid: "ri.compass.main.folder.5f3b6743-0c3f-4aca-9d1c-174873f52b1f"
+comparisonParentFolderRid: "ri.compass.main.folder.239be5d5-f156-42a6-8006-cf31b06826b6"
+legacyVectorLanguage: null
+autoLayoutPaths: false
+useProjectScope: true
+tokenMode: "SCOPED_TOKEN"
